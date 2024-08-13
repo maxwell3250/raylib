@@ -25,6 +25,7 @@ set(raylib_public_headers
     raylib.h
     rlgl.h
     raymath.h
+    rcamera.h
     )
 
 # Sources to be compiled
